@@ -1,4 +1,4 @@
----
+- - - -
 
 # Do something useful with ⌘S in Safari #
 
@@ -8,7 +8,7 @@ It submits the form you're focused on.
 
 ### Because when you get to the end of a form, you're ready to save. ###
                                  
----
+- - - -
 
 The MIT License
 
